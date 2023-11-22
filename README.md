@@ -20,5 +20,10 @@ yarn build
 yarn lint
 ```
 
+###这是一个测试不用理会
+```
+test
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
